@@ -1,4 +1,15 @@
 # Pr-ctica-2-Colaboraci-n-avanzada-resoluci-n-de-conflictos
+<<<<<<< HEAD
+Listado de juegos actuales:
+1-minecraft
+2-counter strike 2
+3-genshin impact
+4-dungeon defenders 2
+5-polygon
+6-it takes two
+7-halo
+8-destiny
+=======
 cesar makako
 
 ## Contelaciones de furina
@@ -46,3 +57,4 @@ constelación
 
     Los efectos anteriormente mencionados se pueden activar hasta 6 veces a lo largo de la duración de atención del pueblo, y se eliminarán cuando se haya alcanzado ese número de veces o cuando termine su duración.
 
+>>>>>>> 5727b623de675a89ceba2a4aaa81ed32ef615c0e

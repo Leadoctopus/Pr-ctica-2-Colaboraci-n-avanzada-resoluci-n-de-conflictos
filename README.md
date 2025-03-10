@@ -4,7 +4,7 @@ cesar makako
 ## Contelaciones de furina
 
 
-onstelación
+constelación
 
     Cada activación de constelación necesita un Stella Fortuna. 
 
